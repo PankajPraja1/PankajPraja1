@@ -53,8 +53,7 @@ I'm a developer who enjoys turning ideas into functional, responsive, and user-f
 - 💻 **Interested in:** Frontend development, backend systems, APIs, and UI/UX
 - 🧩 **My approach:** Learn by building real projects and solving problems
 - 🤝 **Open to:** Collaborations, internships, and opportunities to learn
-- ⚡ **Fun fact:** "One last change" usually means another hour of coding...
-- ⚡ **Fun fact:** "One last change" usually means another hour of coding...
+- ⚡ **Fun fact:** "One last change" usually means another hour of coding...😶‍🌫️
 
 ---
 
@@ -90,9 +89,10 @@ I'm a developer who enjoys turning ideas into functional, responsive, and user-f
 
 A few projects from my web development journey. I'm continuously improving them and building new ones.
 
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🌦️ WeatherX
 
@@ -100,10 +100,13 @@ A weather website focused on presenting weather information through a clean, mod
 
 **Tech:** Next.js · React · Tailwind CSS
 
-🔗 [Live Demo](ADD_WEATHERX_LIVE_URL) · [Source Code](ADD_WEATHERX_REPO_URL)
+🔗 [Live Demo](#) · [Source Code](https://github.com/PankajPraja1/Weather_0.git)
 
 </td>
-<!-- <td width="50%" valign="top">
+</tr>
+
+<!-- <tr>
+<td width="100%" valign="top">
 
 ### ☕ GetMeAChai
 
@@ -113,11 +116,11 @@ A creator-support platform where visitors can support creators and leave message
 
 🔗 [Live Demo](ADD_GETMEACHAI_LIVE_URL) · [Source Code](ADD_GETMEACHAI_REPO_URL)
 
-</td> -->
-</tr>
+</td>
+</tr> -->
 
 <!-- <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔗 ZipLinks
 
@@ -128,7 +131,10 @@ A URL-shortening application built to make sharing links simpler and more conven
 🔗 [Live Demo](ADD_ZIPLINKS_LIVE_URL) · [Source Code](ADD_ZIPLINKS_REPO_URL)
 
 </td>
-<td width="50%" valign="top">
+</tr> -->
+
+<!-- <tr>
+<td width="100%" valign="top">
 
 ### 🌐 LinkTree Clone
 
@@ -142,7 +148,7 @@ A customizable link-sharing page for bringing multiple social and web links toge
 </tr> -->
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🎵 Spotify-Inspired Music Player
 
@@ -150,24 +156,25 @@ A music-player interface inspired by Spotify, built to explore web UI and audio-
 
 **Tech:** HTML · CSS · JavaScript
 
-🔗 [Live Demo](https://spotifyclone.cu.ma/) · [Source Code](ADD_SPOTIFY_REPO_URL)
+🔗 [Live Demo](https://spotifyclone.cu.ma/) · [Source Code](https://github.com/PankajPraja1/Spotify-Music-Player-Clone.git)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td width="100%" valign="top">
 
 ### 📈 LeadFlow
 
-My current project. A work in progress focused on developing a web application and strengthening my full-stack skills.
+My current project, focused on developing a web application and strengthening my full-stack development skills.
 
-**Tech:** Update with the actual project stack.
+**Tech:** Add your actual project stack here.
 
-🔗 [Live Demo](https://leadflow-hazel-xi.vercel.app) · [Source Code](ADD_LEADFLOW_REPO_URL)
+🔗 [Live Demo](https://leadflow-hazel-xi.vercel.app) · [Source Code](https://github.com/PankajPraja1/LeadFlow.git)
 
 </td>
 </tr>
 </table>
-
-<!-- > **Note:** Replace every `ADD_..._URL` placeholder with the actual project link before publishing. Update each project's tech stack to match its implementation. -->
 
 ---
 
