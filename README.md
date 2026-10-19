@@ -53,7 +53,8 @@ I'm a developer who enjoys turning ideas into functional, responsive, and user-f
 - 💻 **Interested in:** Frontend development, backend systems, APIs, and UI/UX
 - 🧩 **My approach:** Learn by building real projects and solving problems
 - 🤝 **Open to:** Collaborations, internships, and opportunities to learn
-- ⚡ **Fun fact:** Every bug fixed is a lesson learned!
+- ⚡ **Fun fact:** "One last change" usually means another hour of coding...
+- ⚡ **Fun fact:** "One last change" usually means another hour of coding...
 
 ---
 
@@ -102,7 +103,7 @@ A weather website focused on presenting weather information through a clean, mod
 🔗 [Live Demo](ADD_WEATHERX_LIVE_URL) · [Source Code](ADD_WEATHERX_REPO_URL)
 
 </td>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
 
 ### ☕ GetMeAChai
 
@@ -112,9 +113,10 @@ A creator-support platform where visitors can support creators and leave message
 
 🔗 [Live Demo](ADD_GETMEACHAI_LIVE_URL) · [Source Code](ADD_GETMEACHAI_REPO_URL)
 
-</td>
+</td> -->
 </tr>
-<tr>
+
+<!-- <tr>
 <td width="50%" valign="top">
 
 ### 🔗 ZipLinks
@@ -137,7 +139,8 @@ A customizable link-sharing page for bringing multiple social and web links toge
 🔗 [Live Demo](ADD_LINKTREE_LIVE_URL) · [Source Code](ADD_LINKTREE_REPO_URL)
 
 </td>
-</tr>
+</tr> -->
+
 <tr>
 <td width="50%" valign="top">
 
@@ -164,7 +167,7 @@ My current project. A work in progress focused on developing a web application a
 </tr>
 </table>
 
-> **Note:** Replace every `ADD_..._URL` placeholder with the actual project link before publishing. Update each project's tech stack to match its implementation.
+<!-- > **Note:** Replace every `ADD_..._URL` placeholder with the actual project link before publishing. Update each project's tech stack to match its implementation. -->
 
 ---
 
