@@ -8,17 +8,22 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+ideas+into+web+applications;Learning+Full+Stack+Development;React+%7C+Next.js+%7C+Node.js;Code.+Create.+Keep+Growing." alt="Typing SVG" />
 </a>
 
-<p>
-<a href="https://github.com/pankajpraja1">
-<img src="https://img.shields.io/badge/GitHub-pankajpraja1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/pankaj-prajapati-535024195">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:prajapatipankaj8109@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+
+<p align="center">
+  <a href="https://pankaj-prajapati.tech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/pankajpraja1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-pankajpraja1-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pankaj-prajapati-535024195" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prajapatipankaj8109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 <img src="https://komarev.com/ghpvc/?username=pankajpraja1&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -100,7 +105,7 @@ A weather website focused on presenting weather information through a clean, mod
 
 **Tech:** Next.js · React · Tailwind CSS
 
-🔗 [Live Demo](#) · [Source Code](https://github.com/PankajPraja1/Weather_0.git)
+🔗 [Live Demo](https://weatherx-eight.vercel.app) · [Source Code](https://github.com/PankajPraja1/Weather_0.git)
 
 </td>
 </tr>
@@ -156,7 +161,7 @@ A music-player interface inspired by Spotify, built to explore web UI and audio-
 
 **Tech:** HTML · CSS · JavaScript
 
-🔗 [Live Demo](https://spotifyclone.cu.ma/) · [Source Code](https://github.com/PankajPraja1/Spotify-Music-Player-Clone.git)
+🔗 [Live Demo](https://spotifyclone.cu.ma) · [Source Code](https://github.com/PankajPraja1/Spotify-Music-Player-Clone.git)
 
 </td>
 </tr>
@@ -197,10 +202,11 @@ My current project, focused on developing a web application and strengthening my
 I'm always happy to connect with fellow developers, exchange ideas, and collaborate on interesting projects.
 
 <p align="center">
-<a href="https://github.com/pankajpraja1">GitHub</a> •
-<a href="https://www.linkedin.com/in/pankaj-prajapati-535024195">LinkedIn</a> •
-<a href="https://www.threads.net/@pankajprajapati0411">Threads</a> •
-<a href="mailto:prajapatipankaj8109@gmail.com">Email</a>
+  <a href="https://pankaj-prajapati.tech" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> •
+  <a href="https://github.com/pankajpraja1" target="_blank" rel="noopener noreferrer">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/pankaj-prajapati-535024195" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> •
+  <a href="https://www.instagram.com/pankajprajapati0411/" target="_blank" rel="noopener noreferrer">📸 Instagram</a> •
+  <a href="mailto:prajapatipankaj8109@gmail.com">✉️ Email</a>
 </p>
 
 <div align="center">
